@@ -1,0 +1,7 @@
+D:\Lucas\Projetos\csharp\Microservices-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\csharp\Microservices-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\csharp\Microservices-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\csharp\Microservices-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.AssemblyInfo.cs
+D:\Lucas\Projetos\csharp\Microservices-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\csharp\Microservices-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.MvcApplicationPartsAssemblyInfo.cs
+D:\Lucas\Projetos\csharp\Microservices-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.MvcApplicationPartsAssemblyInfo.cache
