@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lucas\\Projetos\\csharp\\Microservices-dotnet\\RestauranteService\\RestauranteService.csproj": {}
+    "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\RestauranteService\\RestauranteService.csproj": {}
   },
   "projects": {
-    "D:\\Lucas\\Projetos\\csharp\\Microservices-dotnet\\RestauranteService\\RestauranteService.csproj": {
+    "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\RestauranteService\\RestauranteService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lucas\\Projetos\\csharp\\Microservices-dotnet\\RestauranteService\\RestauranteService.csproj",
+        "projectUniqueName": "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\RestauranteService\\RestauranteService.csproj",
         "projectName": "RestauranteService",
-        "projectPath": "D:\\Lucas\\Projetos\\csharp\\Microservices-dotnet\\RestauranteService\\RestauranteService.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\Lucas\\Projetos\\csharp\\Microservices-dotnet\\RestauranteService\\obj\\",
+        "projectPath": "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\RestauranteService\\RestauranteService.csproj",
+        "packagesPath": "C:\\Users\\Souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\RestauranteService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.okd.local/repository/nuget-hosted": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -39,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,15 +59,15 @@
               "target": "Package",
               "version": "[6.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.3, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[6.0.1, )"
             },
             "RabbitMQ.Client": {
               "target": "Package",
@@ -84,7 +84,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -96,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }
