@@ -21,7 +21,7 @@ namespace RestauranteService.ItemServiceHttpClient
                     Encoding.UTF8,
                     "application/json"
                 );
-
+            
             await _client.PostAsync(_configuration["ItemService"], conteudoHttp);
             
         }
