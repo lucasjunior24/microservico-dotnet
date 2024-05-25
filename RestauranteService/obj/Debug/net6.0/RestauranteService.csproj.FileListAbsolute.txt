@@ -75,3 +75,5 @@ C:\Users\Souza\source\repos\microservi-o-com-dotnet\RestauranteService\obj\Debug
 C:\Users\Souza\source\repos\microservi-o-com-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.pdb
 C:\Users\Souza\source\repos\microservi-o-com-dotnet\RestauranteService\obj\Debug\net6.0\RestauranteService.genruntimeconfig.cache
 C:\Users\Souza\source\repos\microservi-o-com-dotnet\RestauranteService\obj\Debug\net6.0\ref\RestauranteService.dll
+C:\Users\Souza\Source\Repos\microservi-o-com-dotnet\RestauranteService\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Souza\Source\Repos\microservi-o-com-dotnet\RestauranteService\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll

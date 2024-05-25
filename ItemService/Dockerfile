@@ -13,5 +13,5 @@ WORKDIR /app
 
 COPY  --from=BUILD /app/out . 
 
-ENTRYPOINT [ "dotnet", "ItemService.dll"]
+ENTRYPOINT ["dotnet", "ItemService.dll"]
 
