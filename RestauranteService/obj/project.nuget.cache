@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eZQWx0LENbPSdRylA1JrWCNbtX+qpagkqOU/3Yho8FpNmcn/tNQm6SrFl1Z5ZERXGOOz1BuB/d1fUegM5GxE0w==",
+  "dgSpecHash": "cHqcaWAytMsoxgRQy/FkqjLhWlo8ewqtW+XJzTfH/oWnf2Hkj/YJ3u6dhfko+6EIT/tQUadK5iZPka8See2l2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\RestauranteService\\RestauranteService.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,8 @@
     "C:\\Users\\Souza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Souza\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Souza\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Souza\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\Souza\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.1\\pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
     "C:\\Users\\Souza\\.nuget\\packages\\rabbitmq.client\\6.2.3\\rabbitmq.client.6.2.3.nupkg.sha512",
     "C:\\Users\\Souza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Souza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
