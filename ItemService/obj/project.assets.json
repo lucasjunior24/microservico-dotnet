@@ -535,19 +535,6 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/6.0.3": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Data.SqlClient": "2.1.4",
-          "Microsoft.EntityFrameworkCore.Relational": "6.0.3"
-        },
-        "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
-        }
-      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -1304,19 +1291,6 @@
           }
         }
       },
-      "System.IdentityModel.Tokens.Jwt/6.8.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.IdentityModel.JsonWebTokens": "6.8.0",
-          "Microsoft.IdentityModel.Tokens": "6.8.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {}
-        }
-      },
       "System.IO/4.1.0": {
         "type": "package",
         "dependencies": {
@@ -1596,24 +1570,6 @@
           }
         }
       },
-      "System.Runtime.Caching/4.7.0": {
-        "type": "package",
-        "dependencies": {
-          "System.Configuration.ConfigurationManager": "4.7.0"
-        },
-        "compile": {
-          "ref/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/System.Runtime.Caching.dll": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll": {
-            "assetType": "runtime",
-            "rid": "win"
-          }
-        }
-      },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
@@ -1710,25 +1666,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
-        }
-      },
-      "System.Security.AccessControl/4.7.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "3.1.0",
-          "System.Security.Principal.Windows": "4.7.0"
-        },
-        "compile": {
-          "ref/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/System.Security.AccessControl.dll": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll": {
-            "assetType": "runtime",
-            "rid": "win"
-          }
         }
       },
       "System.Security.AccessControl/4.7.0": {
@@ -5996,11 +5933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Souza\\source\\repos\\microservi-o-com-dotnet\\ItemService\\ItemService.csproj",
+      "projectUniqueName": "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\ItemService\\ItemService.csproj",
       "projectName": "ItemService",
-      "projectPath": "C:\\Users\\Souza\\source\\repos\\microservi-o-com-dotnet\\ItemService\\ItemService.csproj",
+      "projectPath": "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\ItemService\\ItemService.csproj",
       "packagesPath": "C:\\Users\\Souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Souza\\source\\repos\\microservi-o-com-dotnet\\ItemService\\obj\\",
+      "outputPath": "C:\\Users\\Souza\\Source\\Repos\\microservi-o-com-dotnet\\ItemService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
